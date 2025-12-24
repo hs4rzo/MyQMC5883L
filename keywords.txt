@@ -1,0 +1,37 @@
+#######################################
+# Syntax Coloring Map QMC5883L
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+QMC5883L	KEYWORD1	QMC5883L
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+QMC5883L	KEYWORD1
+startInit	KEYWORD2
+getBearing	KEYWORD2
+init	KEYWORD2
+reset	KEYWORD2
+ready	KEYWORD2
+reconfig	KEYWORD2
+readHeading	KEYWORD2
+readHeading360	KEYWORD2
+readHeading180	KEYWORD2
+getDirection	KEYWORD2
+getXY	KEYWORD2
+readRaw	KEYWORD2
+readRaw_nonblock	KEYWORD2
+resetCalibration	KEYWORD2
+setSamplingRate	KEYWORD2
+setRange	KEYWORD2
+setOversampling	KEYWORD2
+getHeadingError	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
